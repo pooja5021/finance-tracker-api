@@ -50,3 +50,12 @@ A backend system built using **FastAPI** to manage and analyze personal financia
 ---
 
 ## Project Structure
+## API Base URL
+
+http://127.0.0.1:8000
+
+## Authentication
+
+Use Swagger UI:
+- Click "Authorize"
+- Enter username & password
